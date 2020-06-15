@@ -1,0 +1,28 @@
+# Project exclude paths
+/.gradle/
+/Numeric Matrix Processor/task/build/
+/Numeric Matrix Processor/task/out/
+/Numeric Matrix Processor/task/out/production/classes/
+/Numeric Matrix Processor/task/out/test/classes/
+/Problems/copy() usage/out/
+/Problems/copy() usage/out/production/classes/
+/Problems/Cyclically shifting elements/out/
+/Problems/Cyclically shifting elements/out/production/classes/
+/Problems/Find the max/out/
+/Problems/Find the max/out/production/classes/
+/Problems/Fractional part/out/
+/Problems/Fractional part/out/production/classes/
+/Problems/Pow/out/
+/Problems/Pow/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/The angle between vectors/out/
+/Problems/The angle between vectors/out/production/classes/
+/Problems/The maximum pairwise product/out/
+/Problems/The maximum pairwise product/out/production/classes/
+/Problems/The roots of equation/out/
+/Problems/The roots of equation/out/production/classes/
+/Problems/toString() modification/out/
+/Problems/toString() modification/out/production/classes/
+/Problems/toString() modification (1)/out/
+/Problems/toString() modification (1)/out/production/classes/

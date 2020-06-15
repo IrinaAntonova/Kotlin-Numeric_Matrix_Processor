@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor/task" />
+            <option value="$PROJECT_DIR$/Problems/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Problems/Find the max" />
+            <option value="$PROJECT_DIR$/Problems/Fractional part" />
+            <option value="$PROJECT_DIR$/Problems/Function generator" />
+            <option value="$PROJECT_DIR$/Problems/House inheritance" />
+            <option value="$PROJECT_DIR$/Problems/Pow" />
+            <option value="$PROJECT_DIR$/Problems/Right Rotation" />
+            <option value="$PROJECT_DIR$/Problems/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Problems/The maximum pairwise product" />
+            <option value="$PROJECT_DIR$/Problems/The roots of equation" />
+            <option value="$PROJECT_DIR$/Problems/copy() usage" />
+            <option value="$PROJECT_DIR$/Problems/toString() modification" />
+            <option value="$PROJECT_DIR$/Problems/toString() modification (1)" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
